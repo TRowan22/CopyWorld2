@@ -1,2 +1,3 @@
 # CopyWorld2
-curseforge and google drive world copier/backup system
+
+Minecraft Curseforge and Google Drive backup installation system
